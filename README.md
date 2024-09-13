@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AngelSalasZapata
 - 👀 I’m interested in learning new and useful programming languages
 - 🌱 I’m currently learning OOP in C++ and Java
-- 💞️ I’m looking to collaborate on nothing at the moment, just studying in the college
+- 💞️ I’m looking to collaborate on nothing at the moment, just studying at the university
 - 📫 How to reach me: personal email (fabianozapata520gmail.com)
 - 😄 Pronouns: pro/grammer or pro/gamer
 - ⚡ Fun fact: i also have a yt channel where i upload videogames stuff
