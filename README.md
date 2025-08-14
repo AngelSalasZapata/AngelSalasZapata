@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AngelSalasZapata
-- 👀 I’m interested in learning new and useful programming languages
+- 👀 I’m interested in learning new and useful programming languages and technologies
 - 🌱 I’m currently learning Java language (i also know Python and C++ basics)
 - 💞️ I’m looking to collaborate on some small projects while studying at the university
 - 📫 How to reach me: personal email (fabianozapata520@gmail.com)
-- 😄 Pronouns: pro/grammer or pro/gamer
+- 😄 I'm interested in specializing in FullStack or DevOps
 - ⚡ Fun fact: i also have a yt channel where i upload videogames stuff
 
 <!---
