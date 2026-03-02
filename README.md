@@ -6,8 +6,7 @@
 - 👨🏻‍💻 Right now, I'm studying at university, and learning/doing small personal projects (mainly HTML)
 - 📫 How to reach me: personal email (fabianozapata520@gmail.com)
 - 💬 I also have a LinkedIn profile: [Salas Zapata Angel Fabiano](https://www.linkedin.com/in/salas-zapata-angel-fabiano-8965572b5/)
-- ⚡ Fun fact: I also have a YouTube channel where I upload things related to my career 👨🏻‍💻 (not yet) (https://www.youtube.com/@365systemxd) and gaming/miscellaneous stuff 🎮  (https://www.youtube.com/@angel365xd).
-
+- ⚡ Fun fact: I also have a YouTube channel where I upload things related to my career 👨🏻‍💻 (not yet) (https://www.youtube.com/@365systemxd)
 <!---
 AngelSalasZapata/AngelSalasZapata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
