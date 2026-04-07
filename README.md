@@ -55,15 +55,6 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>plataforma-acmucsm-react</b></td>
-      <td>React, CSS, JavaScript</td>
-      <td>
-        Informational platform for the ACM Student Chapter at UCSM with image and text sections.
-        Currently being migrated to another framework.
-      </td>
-      <td>paused</td>
-    </tr>
-    <tr>
       <td>Superfighters Deluxe Card Maker</td>
       <td>HTML</td>
       <td>
