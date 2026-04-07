@@ -38,7 +38,11 @@
 
 * Git & GitHub
 * VS Code
+* Docker
+* Eclipse IDE
 * Linux
+* Android Studio
+* IntelliJ IDEA
 
 ---
 
