@@ -84,15 +84,15 @@
       <td>
         An informational website about an independent fine and nutritious chocolate business.
       </td>
-      <td>in development</td>
+      <td>in development/WIP</td>
     </tr>
     <tr>
       <td>ACM Student Chapter Platform - UCSM</td>
-      <td>HTML, CSS, JavaScript, React</td>
+      <td>HTML, CSS, JavaScript, Astro</td>
       <td>
-        An interactive platform with various informational sections about the ACM Student Chapter at my university (currently paused – migrating to another framework).
+        An interactive platform with various informational sections about the ACM Student Chapter at my university (currently in Astro, still a template/WIP).
       </td>
-      <td>in development</td>
+      <td>in development/WIP</td>
     </tr>
   </tbody>
 </table>
