@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  💻 Systems Engineer Student | 🌱 Learning & Building | 🚀 Future FullStack / DevOps Engineer
+  💻 Systems Engineer Student | 🌱 Learning & Building | 🚀 Future Software Architect / DevOps Engineer
 </p>
 
 ---
@@ -12,7 +12,8 @@
 ## 👨🏻‍💻 About Me
 
 * 👀 Interested in learning new and useful programming languages and technologies
-* 😄 Looking to specialize in **FullStack Development** or **DevOps**
+* 😄 Looking to specialize in **Software Architecture**
+* Interested in **DevOps, ML, AI and Automation**
 * 🌱 Currently learning **Python** (also know Java & C++)
 * 🎓 University student working on small personal projects (mainly web development)
 
@@ -91,7 +92,7 @@
       <td>ACM Student Chapter Platform - UCSM</td>
       <td>HTML, CSS, JavaScript, Astro</td>
       <td>
-        An interactive platform with various informational sections about the ACM Student Chapter at my university (currently in Astro, still a template/WIP).
+        An interactive platform with various informational sections about the ACM Student Chapter at my university (currently in Astro, still a WIP).
       </td>
       <td>in development/WIP</td>
     </tr>
