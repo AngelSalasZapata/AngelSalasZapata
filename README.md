@@ -111,5 +111,5 @@
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Let's keep chasing the dream! ⭐
+  ⭐ Thanks for visiting my profile! Let's keep building the future! ⭐
 </p>
