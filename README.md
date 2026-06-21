@@ -94,7 +94,7 @@
       <td>
         An interactive platform with various informational sections about the ACM Student Chapter at my university (currently in Astro, still a WIP).
       </td>
-      <td>in development/WIP</td>
+      <td>in development/WIP (collab with ArelyX1)</td>
     </tr>
   </tbody>
 </table>
