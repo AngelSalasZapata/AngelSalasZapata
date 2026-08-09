@@ -86,7 +86,7 @@
       <td>Nutrichoc Web Catalog</td>
       <td>HTML, CSS, JavaScript</td>
       <td>
-        An informational website about an independent fine and nutritious chocolate business.
+        A product catalog for a small independent chocolate business.
       </td>
       <td>in development/WIP</td>
     </tr>
